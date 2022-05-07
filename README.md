@@ -32,6 +32,6 @@ We would love you for the contribution to **RRHackerNewsList**, check the ``LICE
 
 ## License
 
-[RRHackerNewsList](https://github.com/Jigneshmayani90/HackerNewsList/tree/main/News/) is available under the MIT license. See the [LICENSE](https://github.com/Jigneshmayani90/HackerNewsList/blob/main/LICENSE) file for more info.
+[HackerNewsList](https://github.com/Jigneshmayani90/HackerNewsList/tree/main/News/) is available under the MIT license. See the [LICENSE](https://github.com/Jigneshmayani90/HackerNewsList/blob/main/LICENSE) file for more info.
 
 
